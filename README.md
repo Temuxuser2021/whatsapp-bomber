@@ -57,5 +57,5 @@ This project was made **just for fun** during lockdown.
 
 ---
 
-re coded by with :heart: by <a href="https://github.com/Termuxuser2021">Noob Hacker Raj</a>.</b></h1>
+re coded by with :heart: by <a href="https://github.com/Temuxuser2021">Noob Hacker Raj</a>.</b></h1>
 <h3 align="center"><b>Developed with :heart: by <a href="https://github.com/mrpandya">Manan Pandya</a>.</b></h1>
