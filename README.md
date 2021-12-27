@@ -14,6 +14,8 @@ $ git clone https://github.com/mrpandya/whatsapp-bomber
 ```
 ## Install dependencies
 ```bash
+  cd whatsapp-bomber
+
 $ pip install -r requirements.txt
 ```
 
